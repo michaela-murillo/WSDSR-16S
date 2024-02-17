@@ -1,0 +1,64 @@
+genus	mib_production	hex_color	mib_production_binary
+Acaryochloris	FALSE		0
+Allocoleopsis	FALSE		0
+Anabaena	TRUE	#f8766d	1
+Anabaenopsis	FALSE		0
+Anthocerotibacter	FALSE		0
+Brasilonema	FALSE		0
+Calothrix	FALSE		0
+Candidatus Atelocyanobacterium	FALSE		0
+Chamaesiphon	FALSE		0
+Chroococcidiopsis	FALSE		0
+Crinalium	FALSE		0
+Crocosphaera	FALSE		0
+Cyanobacterium	FALSE		0
+Cyanobium	TRUE	#e88526	1
+Cylindrospermopsis	TRUE	#d39200	1
+Cylindrospermum	FALSE		0
+Dolichospermum	TRUE	#b79f00	1
+Fischerella	FALSE		0
+Geitlerinema	FALSE		0
+Geminocystis	FALSE		0
+Gloeobacter	FALSE		0
+Gloeocapsa	FALSE		0
+Gloeomargarita	FALSE		0
+Gloeothece	FALSE		0
+Halomicronema	FALSE		0
+Halothece	FALSE		0
+Hapalosiphon	TRUE	#93aa00	1
+Hyella	TRUE	#5eb300	1
+Koinonema	FALSE		0
+Kovacikia	FALSE		0
+Leptodesmis	FALSE		0
+Leptolyngbya	TRUE	#00ba38	1
+Leptothermofonsia	FALSE		0
+Limnospira	FALSE		0
+Lyngbya	TRUE	#00bf74	1
+Microcoleus	TRUE	#00c19f	1
+Microcoleus pseudatumnalis	TRUE	#00bfc4	1
+Microcystis	TRUE	#00b9e3	1
+Moorena	FALSE		0
+Nodularia	FALSE		0
+Nostoc	FALSE		0
+Odorella	TRUE	#00adfa	1
+Oscillatoria	TRUE	#619cff	1
+Oxynema	FALSE		0
+Phormidium	TRUE	#ae87ff	1
+Planktothricoides	TRUE	#db72fb	1
+Planktothrix	TRUE	#f564e3	1
+Pleurocapsa	FALSE		0
+Prochlorococcus	FALSE		0
+Pseudanabaena	TRUE	#ff61c3	1
+Richelia	FALSE		0
+Rippkaea	FALSE		0
+Rivularia	FALSE		0
+Scytonema	FALSE		0
+Sphaerospermopsis	FALSE		0
+Stanieria	FALSE		0
+Synechococcus	TRUE	#ff699c	1
+Synechocystis	FALSE		0
+Thermoleptolyngbya	FALSE		0
+Thermostichus	FALSE		0
+Thermosynechococcus	FALSE		0
+Tolypothrix	FALSE		0
+Trichothermofontia	FALSE		0
